@@ -1,4 +1,4 @@
-# TuTeDude Assignment 1 – Python and Bash Grade Checker
+# TuTeDude Assignment 2 – Python and Bash Grade Checker
 
 ## 📌 Task
 Write a program that takes a score as input and prints the grade:
